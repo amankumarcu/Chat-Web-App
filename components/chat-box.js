@@ -191,9 +191,9 @@ class ChatBox extends Component {
                 <div class="chat-placeholder">
                     <img src="./static/chat-placeholder.svg" alt="chat-placeholder">
                     <h2>Hi there! \n Select a chat to start messaging.</h2>
-                    <p>This app is one of the projects that developed under name 
-                    <a href="https://github.com/behnamazimi/simple-web-projects" target="_blank">
-                    <strong>practical front-end projects</strong></a> for educational purposes. 
+                    <p>This app is developed by
+                    <a href="https://github.com/amankumarcu" target="_blank">
+                    <strong>Aman Kumar</strong></a>.
                     This project developed with <strong>Web Components</strong> without any third-party libs.</p>
                 </div>
             </template>
